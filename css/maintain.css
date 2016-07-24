@@ -1,0 +1,75 @@
+#stu1 {
+    padding: 0;
+    border: 0;
+    left: 600px;
+    top: 220px;
+    width: 600px;
+    height: 470px;
+    margin-left: 65px;
+    margin-top:10px;
+    background-color:#ffffff;
+}
+
+#td1{
+     width:100px;
+     height:50px;
+}
+#td2{
+    width:450px;
+    height:50px;
+    text-align:right;
+}
+#input{
+    background-color:#fcfcfc;
+    border:0px;
+    height: 25px;
+    width: 420px;
+}
+#s{
+    border:0px;
+    height: 25px;
+    width:180px;
+    border:2px solid #8cdeb9;
+    background-color:#ffffff;
+}
+#search{
+   height: 31px;
+    width:50px;
+    position:static;
+    background-color:#8cdeb9;
+    color:#ffffff;
+    font-weight:bold;
+    border:2px solid #8cdeb9;
+}
+#select{
+    height:26px;
+    border:2px solid #8cdeb9;
+}
+#discount{
+    border:2px solid #8cdeb9;
+    width:40%;
+    height:50%;
+    font-size: 80%;
+    background-color:#ffffff;
+    color:#000000;
+    
+}
+#tr{
+    height:33px;
+}
+#gray{
+    color:#999999;
+    
+}
+#in{
+    height:33px;
+}
+#choose{
+    border:1px solid #8cdeb9;
+    width:40px;
+    height:120%;
+    font-size: 75%;
+    background-color:#8cdeb9;
+    color:#ffffff;
+    
+}

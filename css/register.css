@@ -1,0 +1,50 @@
+#stu1 {
+    padding: 0;
+    border: 0;
+    left: 600px;
+    top: 220px;
+    width: 600px;
+    height: 470px;
+    margin-left: 65px;
+    margin-top:10px;
+    background-color:#ffffff;
+}
+
+#td1{
+     width:17%;
+     height:50%;
+   text-align: center
+}
+#td2{
+    width:60%;
+    height:60px;
+    text-align:right;
+}
+#td3{
+    text-align:center;
+}
+.input{
+    background-color:#fcfcfc;
+    border:0px;
+    height: 70%;
+    width: 100%;
+}
+.zhuce{
+    border:1px solid azure;
+    width:20%;
+    height:70%;
+    font-size: 100%;
+    background-color:#8cdeb9;
+    color:#ffffff;
+   
+    
+}
+.discount{
+    border:1px solid #fcfcfc;
+    width:50%;
+    height:70%;
+    font-size: 100%;
+    background-color:#f3ffd7;
+    color:#999999;
+    
+}
